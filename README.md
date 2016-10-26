@@ -78,7 +78,7 @@ machine -> Instargram : [] Share(photo)
 ![](http://www.plantuml.com/plantuml/img/XL6zQiCm4Dxz51gLeI_GeGGIQ3iq3dZe439Sx2CMM7Vc917ozfKIkP5fJDVx_kxkMpiFueCTgk1GrCkREWNlcTIhEXptWixfLPL74RJGzeRmXZP8ViFM0dLwLw-g2OiqrmhYtKFjE3hamTp1KCk2hLUZW7CNbkxu3KA6pdh1xOb2ROqR1xXUVfLFi_xeDapUK42zk7Ws_c2BNq0X4gSN5QpRYzvX652kIzdbf-eHwK4lalFm7frOHTuCQp1Tik_PSq4vyRorfWV1cZufzNiMi7fCYjWb_zEbIyg9NIpuiCfxbBmrKXTizGC0)
 
 
-รูปที่3
+รูปที่5
 ```
 @startuml
 user -> button : []Press(No)
